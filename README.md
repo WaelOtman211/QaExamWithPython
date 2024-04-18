@@ -14,13 +14,13 @@ Ensure that Python 3.x is installed on your local system.
 1. Clone this repository to your local machine:
 
     
-    git clone https://github.com/WaelOtman211/QAExam.git
+    git clone https://github.com/WaelOtman211/QaExamWithPython.git
     
 
 2. Navigate to the cloned directory:
 
     
-    cd QAExam
+    cd QaExamWithPython
     
 
 ## Usage
