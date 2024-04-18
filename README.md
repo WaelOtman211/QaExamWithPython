@@ -49,15 +49,11 @@ An application is the initial step, where details about the applicant are gather
 
 ### Offer Generation
 
-Upon receiving an application, the system generates three initial offers based on the requested amount. These offers include the requested amount, the requested amount plus $1000, and the requested amount minus $1000.
+Upon receiving an application, the system generates three initial offers based on the requested amount. 
 
 ### Models
 
 The system employs two main models: the Rate_model and the Risk_model. The Rate_model calculates a rate model score based on the applicant's credit features and offer attributes, while the Risk_model assesses the risk associated with the applicant.
-
-### Convertors and Alignment
-
-Following model calculations, Convertor A transforms the rate model score into an accurate interest rate. Additionally, the system ensures alignment of interest rates among offers, particularly in cases where higher amount offers have lower interest rates than lower amount offers.
 
 ### Risk Modification
 
