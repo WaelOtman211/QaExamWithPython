@@ -41,7 +41,7 @@ Feel free to modify the input strings or parameters directly within the script f
 
 
 ## Part 2: Loan Offer Processing System Overview
-This is the contain of the attached PDF file.
+Answers to the question are provided in the attached PDF file named Production QA 
 
 ### Application
 
